@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="TNE-DiscordBot">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/out/artifacts/TNE_DiscordBot_jar/TNE-DiscordBot.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
